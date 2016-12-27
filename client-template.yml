@@ -2,4 +2,4 @@ config:
   name: Hello from config template
 
 
-x : Hello
+x: Hello
